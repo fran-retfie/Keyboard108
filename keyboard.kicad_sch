@@ -5000,7 +5000,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 635 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 01a98b43-2a44-40eb-b6a2-efc2ccf415c8)
-    (property "Reference" "D164" (id 0) (at 638.81 19.05 0))
+    (property "Reference" "D208" (id 0) (at 638.81 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 641.35 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5038,7 +5038,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 689.61 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 021db9d5-d942-4cf4-84eb-b8a0e3afaf18)
-    (property "Reference" "D179" (id 0) (at 693.42 54.61 0))
+    (property "Reference" "D253" (id 0) (at 693.42 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 695.96 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5057,7 +5057,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 753.11 173.99 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 029738bc-ebb7-4898-accd-7d5149fbfd5c)
-    (property "Reference" "D200" (id 0) (at 756.92 167.64 0))
+    (property "Reference" "D259" (id 0) (at 756.92 167.64 0))
     (property "Value" "SK6812MINI" (id 1) (at 759.46 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5263,7 +5263,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 445.77 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 0f8c3841-5180-40d4-850d-face31cec667)
-    (property "Reference" "D115" (id 0) (at 449.58 54.61 0))
+    (property "Reference" "D241" (id 0) (at 449.58 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 452.12 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5320,7 +5320,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 767.08 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 10be39ce-9927-4d8b-b235-c63f122142f8)
-    (property "Reference" "D203" (id 0) (at 770.89 54.61 0))
+    (property "Reference" "D256" (id 0) (at 770.89 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 773.43 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5358,7 +5358,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 549.91 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 132c7673-8826-4607-b218-5b0851e8c78e)
-    (property "Reference" "D143" (id 0) (at 553.72 72.39 0))
+    (property "Reference" "D267" (id 0) (at 553.72 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 556.26 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5431,7 +5431,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 441.96 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 1b989b5c-f2d3-4e5d-93a6-1a469b649e72)
-    (property "Reference" "D113" (id 0) (at 445.77 38.1 0))
+    (property "Reference" "D220" (id 0) (at 445.77 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 448.31 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5545,7 +5545,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 590.55 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 21e77a91-3399-4283-bc82-7527a75a4520)
-    (property "Reference" "D153" (id 0) (at 594.36 72.39 0))
+    (property "Reference" "D269" (id 0) (at 594.36 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 596.9 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5564,7 +5564,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 746.76 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 22aa9bfc-146d-4bef-9532-c9e2f6691d98)
-    (property "Reference" "D194" (id 0) (at 750.57 54.61 0))
+    (property "Reference" "D255" (id 0) (at 750.57 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 753.11 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5640,7 +5640,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 466.09 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 242d0f0e-12ef-4f29-b625-064866f4830f)
-    (property "Reference" "D120" (id 0) (at 469.9 54.61 0))
+    (property "Reference" "D242" (id 0) (at 469.9 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 472.44 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5659,7 +5659,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 448.31 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 24b0ab0a-90ef-4e64-a59e-af92d8c158f0)
-    (property "Reference" "D117" (id 0) (at 452.12 72.39 0))
+    (property "Reference" "D262" (id 0) (at 452.12 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 454.66 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5735,7 +5735,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 570.23 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 27a6660b-0338-46fe-b75c-4c0f0622409d)
-    (property "Reference" "D147" (id 0) (at 574.04 72.39 0))
+    (property "Reference" "D268" (id 0) (at 574.04 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 576.58 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5811,7 +5811,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 572.77 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 28c2560a-e093-4843-a13b-3ecf7c842838)
-    (property "Reference" "D148" (id 0) (at 576.58 19.05 0))
+    (property "Reference" "D205" (id 0) (at 576.58 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 579.12 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5849,7 +5849,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 770.89 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2932f827-2ea8-4c92-9461-2e06094863c9)
-    (property "Reference" "D208" (id 0) (at 774.7 151.13 0))
+    (property "Reference" "D239" (id 0) (at 774.7 151.13 0))
     (property "Value" "SK6812MINI" (id 1) (at 777.24 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5925,7 +5925,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 521.97 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2dcd4636-507f-4cc6-9f17-914f507ab88e)
-    (property "Reference" "D134" (id 0) (at 525.78 38.1 0))
+    (property "Reference" "D224" (id 0) (at 525.78 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 528.32 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5963,7 +5963,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 730.25 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 31672ace-45f3-4488-8b26-aa79a15f071d)
-    (property "Reference" "D188" (id 0) (at 734.06 151.13 0))
+    (property "Reference" "D237" (id 0) (at 734.06 151.13 0))
     (property "Value" "SK6812MINI" (id 1) (at 736.6 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -5982,7 +5982,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 728.98 138.43 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 319448af-5793-4f51-879e-246587e36dd1)
-    (property "Reference" "D187" (id 0) (at 732.79 132.08 0))
+    (property "Reference" "D216" (id 0) (at 732.79 132.08 0))
     (property "Value" "SK6812MINI" (id 1) (at 735.33 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6001,7 +6001,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 623.57 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 31a5090c-2204-46ce-b3a9-261387ba10de)
-    (property "Reference" "D160" (id 0) (at 627.38 38.1 0))
+    (property "Reference" "D229" (id 0) (at 627.38 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 629.92 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6401,7 +6401,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 643.89 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 49633b78-fe92-4c09-8876-eec53f5ae64e)
-    (property "Reference" "D166" (id 0) (at 647.7 38.1 0))
+    (property "Reference" "D230" (id 0) (at 647.7 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 650.24 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6515,7 +6515,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 770.89 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4f73bd75-ed1b-4dec-867c-8ed55bc99a16)
-    (property "Reference" "D207" (id 0) (at 774.7 38.1 0))
+    (property "Reference" "D235" (id 0) (at 774.7 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 777.24 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6591,7 +6591,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 486.41 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 54f8b835-ae18-4f62-b4e7-47a1ee3e09ef)
-    (property "Reference" "D126" (id 0) (at 490.22 54.61 0))
+    (property "Reference" "D243" (id 0) (at 490.22 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 492.76 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6648,7 +6648,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 787.4 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5644c907-83c2-436d-a263-f1b037d53ada)
-    (property "Reference" "D214" (id 0) (at 791.21 54.61 0))
+    (property "Reference" "D257" (id 0) (at 791.21 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 793.75 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6667,7 +6667,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 732.79 173.99 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 56786862-810e-4d8a-a957-03aa1dd0c77a)
-    (property "Reference" "D190" (id 0) (at 736.6 167.64 0))
+    (property "Reference" "D258" (id 0) (at 736.6 167.64 0))
     (property "Value" "SK6812MINI" (id 1) (at 739.14 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6686,7 +6686,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 543.56 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5679febc-ab67-4b20-af43-c91197ec331d)
-    (property "Reference" "D139" (id 0) (at 547.37 38.1 0))
+    (property "Reference" "D225" (id 0) (at 547.37 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 549.91 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6724,7 +6724,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 648.97 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 58ffb92a-ead2-403c-a077-914e98e5970a)
-    (property "Reference" "D167" (id 0) (at 652.78 54.61 0))
+    (property "Reference" "D251" (id 0) (at 652.78 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 655.32 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6743,7 +6743,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 671.83 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 59077182-6fb5-46c5-a41a-25c051dbeba9)
-    (property "Reference" "D175" (id 0) (at 675.64 72.39 0))
+    (property "Reference" "D273" (id 0) (at 675.64 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 678.18 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6817,7 +6817,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 718.82 67.31 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 5c0384b3-0dff-436b-a2d1-d8c87f82a401)
-    (property "Reference" "D185" (id 0) (at 722.63 60.96 0))
+    (property "Reference" "D254" (id 0) (at 722.63 60.96 0))
     (property "Value" "SK6812MINI" (id 1) (at 725.17 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6912,7 +6912,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 523.24 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 60030018-14e7-4d16-b4fa-bf13e10c4b18)
-    (property "Reference" "D135" (id 0) (at 527.05 19.05 0))
+    (property "Reference" "D203" (id 0) (at 527.05 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 529.59 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6931,7 +6931,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 684.53 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 601ac344-2c73-41c6-bc12-a2449956f81c)
-    (property "Reference" "D177" (id 0) (at 688.34 38.1 0))
+    (property "Reference" "D232" (id 0) (at 688.34 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 690.88 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -6969,7 +6969,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 716.28 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 60f7aca7-5e22-48c1-9650-2d57ebb2f698)
-    (property "Reference" "D184" (id 0) (at 720.09 38.1 0))
+    (property "Reference" "D233" (id 0) (at 720.09 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 722.63 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7515,7 +7515,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 708.66 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7cb64e5b-27d5-47a3-bd7e-b9fe2d81ecf8)
-    (property "Reference" "D182" (id 0) (at 712.47 19.05 0))
+    (property "Reference" "D211" (id 0) (at 712.47 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 715.01 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7607,7 +7607,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 588.01 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 7f499fa7-d65c-409f-8f78-88ce93893f81)
-    (property "Reference" "D151" (id 0) (at 591.82 54.61 0))
+    (property "Reference" "D248" (id 0) (at 591.82 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 594.36 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7645,7 +7645,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 769.62 138.43 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 81932ad2-f5a5-4231-b2e3-2df5c643e090)
-    (property "Reference" "D206" (id 0) (at 773.43 132.08 0))
+    (property "Reference" "D218" (id 0) (at 773.43 132.08 0))
     (property "Value" "SK6812MINI" (id 1) (at 775.97 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7664,7 +7664,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 462.28 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 819ebb6d-7a6a-470f-b646-8541220c6301)
-    (property "Reference" "D118" (id 0) (at 466.09 38.1 0))
+    (property "Reference" "D221" (id 0) (at 466.09 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 468.63 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7683,7 +7683,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 481.33 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 822a080c-4ad0-4fc6-851a-89ed3a094fef)
-    (property "Reference" "D123" (id 0) (at 485.14 19.05 0))
+    (property "Reference" "D201" (id 0) (at 485.14 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 487.68 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7756,7 +7756,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 441.96 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8580430f-134b-41a5-8877-22c81715ab9e)
-    (property "Reference" "D109" (id 0) (at 445.77 19.05 0))
+    (property "Reference" "D200" (id 0) (at 445.77 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 448.31 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7832,7 +7832,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 501.65 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 87bd74b5-7583-4c51-8b64-aeb5f3708efb)
-    (property "Reference" "D129" (id 0) (at 505.46 38.1 0))
+    (property "Reference" "D223" (id 0) (at 505.46 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 508 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7870,7 +7870,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 750.57 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8b31abc4-2ddf-47cd-a666-7434f53d62aa)
-    (property "Reference" "D196" (id 0) (at 754.38 38.1 0))
+    (property "Reference" "D234" (id 0) (at 754.38 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 756.92 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -7889,7 +7889,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 793.75 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8ba90d2c-b5ee-4a88-b02b-65b7bf0b5daa)
-    (property "Reference" "D218" (id 0) (at 797.56 19.05 0))
+    (property "Reference" "D215" (id 0) (at 797.56 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 800.1 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8003,7 +8003,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 608.33 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8e7a4c54-c759-444a-a9e9-3f7f0cca2cd5)
-    (property "Reference" "D156" (id 0) (at 612.14 54.61 0))
+    (property "Reference" "D249" (id 0) (at 612.14 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 614.68 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8041,7 +8041,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 753.11 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8ebcd8d7-7a69-433b-b8a3-0afb98953fcf)
-    (property "Reference" "D199" (id 0) (at 756.92 19.05 0))
+    (property "Reference" "D213" (id 0) (at 756.92 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 759.46 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8079,7 +8079,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 669.29 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 8f7c2428-1a6e-46d5-a013-5e28672d5d55)
-    (property "Reference" "D173" (id 0) (at 673.1 54.61 0))
+    (property "Reference" "D252" (id 0) (at 673.1 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 675.64 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8117,7 +8117,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 750.57 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9236b25c-58b8-47bf-bf25-0ba26f3459d6)
-    (property "Reference" "D197" (id 0) (at 754.38 151.13 0))
+    (property "Reference" "D238" (id 0) (at 754.38 151.13 0))
     (property "Value" "SK6812MINI" (id 1) (at 756.92 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8230,7 +8230,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 565.15 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 93ab535e-d225-4cdd-8f63-3767007623de)
-    (property "Reference" "D144" (id 0) (at 568.96 38.1 0))
+    (property "Reference" "D226" (id 0) (at 568.96 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 571.5 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8306,7 +8306,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 664.21 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 966a10c3-2912-42eb-9f36-7e07e5c4cd5c)
-    (property "Reference" "D172" (id 0) (at 668.02 38.1 0))
+    (property "Reference" "D231" (id 0) (at 668.02 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 670.56 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8325,7 +8325,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 651.51 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 97804c74-dd9c-43c4-a2f6-c48afff8fc84)
-    (property "Reference" "D169" (id 0) (at 655.32 72.39 0))
+    (property "Reference" "D272" (id 0) (at 655.32 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 657.86 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8363,7 +8363,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 728.98 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 99d05452-c137-4750-a5fa-b69783e5d20a)
-    (property "Reference" "D186" (id 0) (at 732.79 19.05 0))
+    (property "Reference" "D212" (id 0) (at 732.79 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 735.33 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8436,7 +8436,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 488.95 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9d77fc50-7fa6-4aa9-9a43-007c0d0b4a48)
-    (property "Reference" "D128" (id 0) (at 492.76 72.39 0))
+    (property "Reference" "D264" (id 0) (at 492.76 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 495.3 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8474,7 +8474,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 529.59 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 9eb73eeb-2ef8-4769-9bd4-7a6cf4875905)
-    (property "Reference" "D138" (id 0) (at 533.4 72.39 0))
+    (property "Reference" "D266" (id 0) (at 533.4 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 535.94 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8588,7 +8588,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 614.68 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a678e482-ba4e-4da8-8431-e10ec32c1905)
-    (property "Reference" "D159" (id 0) (at 618.49 19.05 0))
+    (property "Reference" "D207" (id 0) (at 618.49 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 621.03 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8626,7 +8626,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 595.63 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid a8a58438-4110-42b5-b163-6e5df928377e)
-    (property "Reference" "D154" (id 0) (at 599.44 19.05 0))
+    (property "Reference" "D206" (id 0) (at 599.44 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 601.98 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8664,7 +8664,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 773.43 173.99 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid aa8e4f0a-4410-49ca-87db-7e0a341b80fe)
-    (property "Reference" "D211" (id 0) (at 777.24 167.64 0))
+    (property "Reference" "D260" (id 0) (at 777.24 167.64 0))
     (property "Value" "SK6812MINI" (id 1) (at 779.78 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8721,7 +8721,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 692.15 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ad767a11-96c9-4fb7-9509-5e145865edc7)
-    (property "Reference" "D180" (id 0) (at 695.96 72.39 0))
+    (property "Reference" "D274" (id 0) (at 695.96 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 698.5 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8778,7 +8778,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 567.69 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b0bf063f-9f61-4697-895c-8dbd1d6db1fe)
-    (property "Reference" "D145" (id 0) (at 571.5 54.61 0))
+    (property "Reference" "D247" (id 0) (at 571.5 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 574.04 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8816,7 +8816,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 773.43 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b272cf19-6282-4b66-b5b6-65bfae8a3a0e)
-    (property "Reference" "D210" (id 0) (at 777.24 19.05 0))
+    (property "Reference" "D214" (id 0) (at 777.24 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 779.78 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8873,7 +8873,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 585.47 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b64a6b3e-345c-419e-adbf-4462c77db9f4)
-    (property "Reference" "D150" (id 0) (at 589.28 38.1 0))
+    (property "Reference" "D227" (id 0) (at 589.28 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 591.82 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8892,7 +8892,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 468.63 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b7337c37-5907-489e-98d1-8a653f8c93ac)
-    (property "Reference" "D122" (id 0) (at 472.44 72.39 0))
+    (property "Reference" "D263" (id 0) (at 472.44 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 474.98 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8911,7 +8911,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 791.21 157.48 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid b8e9b2b6-a793-4b61-ad9b-e94a918cc7cb)
-    (property "Reference" "D217" (id 0) (at 795.02 151.13 0))
+    (property "Reference" "D240" (id 0) (at 795.02 151.13 0))
     (property "Value" "SK6812MINI" (id 1) (at 797.56 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -8930,7 +8930,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 662.94 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ba14200e-e15e-4879-b7ea-5c3bb929ada3)
-    (property "Reference" "D171" (id 0) (at 666.75 19.05 0))
+    (property "Reference" "D209" (id 0) (at 666.75 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 669.29 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9062,7 +9062,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 527.05 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c7077c2e-334a-4064-bf97-d23854aef0e2)
-    (property "Reference" "D136" (id 0) (at 530.86 54.61 0))
+    (property "Reference" "D245" (id 0) (at 530.86 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 533.4 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9081,7 +9081,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 481.33 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid c895b172-9104-49dc-84a6-b342ecfabd47)
-    (property "Reference" "D124" (id 0) (at 485.14 38.1 0))
+    (property "Reference" "D222" (id 0) (at 485.14 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 487.68 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9194,7 +9194,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 547.37 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid cf2e3f81-0530-4486-852a-4b5531a3c05b)
-    (property "Reference" "D141" (id 0) (at 551.18 54.61 0))
+    (property "Reference" "D246" (id 0) (at 551.18 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 553.72 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9232,7 +9232,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 791.21 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d0c39e8b-a337-4861-8f5e-a9770b8731c7)
-    (property "Reference" "D216" (id 0) (at 795.02 38.1 0))
+    (property "Reference" "D236" (id 0) (at 795.02 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 797.56 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9251,7 +9251,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 793.75 173.99 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d124aee1-b6d3-4957-bb8b-a9f1eaaebb33)
-    (property "Reference" "D219" (id 0) (at 797.56 167.64 0))
+    (property "Reference" "D261" (id 0) (at 797.56 167.64 0))
     (property "Value" "SK6812MINI" (id 1) (at 800.1 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9380,7 +9380,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 685.8 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d95eddd7-1202-4d1f-9f8e-13bc2afb2365)
-    (property "Reference" "D178" (id 0) (at 689.61 19.05 0))
+    (property "Reference" "D210" (id 0) (at 689.61 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 692.15 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9567,7 +9567,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 604.52 44.45 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e263ce8c-eec1-4b22-adad-b0a36367094e)
-    (property "Reference" "D155" (id 0) (at 608.33 38.1 0))
+    (property "Reference" "D228" (id 0) (at 608.33 38.1 0))
     (property "Value" "SK6812MINI" (id 1) (at 610.87 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9624,7 +9624,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 610.87 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e4da854e-509a-49c0-91f1-80e6342cf856)
-    (property "Reference" "D158" (id 0) (at 614.68 72.39 0))
+    (property "Reference" "D270" (id 0) (at 614.68 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 617.22 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9661,7 +9661,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 502.92 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e650a03c-0004-48ee-8cd3-5ffff454551e)
-    (property "Reference" "D130" (id 0) (at 506.73 19.05 0))
+    (property "Reference" "D202" (id 0) (at 506.73 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 509.27 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9718,7 +9718,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 544.83 25.4 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f20e1c90-b233-4f5e-996f-7b79dc8e0460)
-    (property "Reference" "D140" (id 0) (at 548.64 19.05 0))
+    (property "Reference" "D204" (id 0) (at 548.64 19.05 0))
     (property "Value" "SK6812MINI" (id 1) (at 551.18 16.51 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9756,7 +9756,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 628.65 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f3c53c40-28c5-4c4f-a9e5-51b9f6faac00)
-    (property "Reference" "D161" (id 0) (at 632.46 54.61 0))
+    (property "Reference" "D250" (id 0) (at 632.46 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 635 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9775,7 +9775,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 749.3 138.43 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f5bbf347-03c1-4e94-a7b9-0f2ff1715794)
-    (property "Reference" "D195" (id 0) (at 753.11 132.08 0))
+    (property "Reference" "D217" (id 0) (at 753.11 132.08 0))
     (property "Value" "SK6812MINI" (id 1) (at 755.65 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9851,7 +9851,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 506.73 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f943c0a7-7942-407b-986c-7c06de23d3c2)
-    (property "Reference" "D131" (id 0) (at 510.54 54.61 0))
+    (property "Reference" "D244" (id 0) (at 510.54 54.61 0))
     (property "Value" "SK6812MINI" (id 1) (at 513.08 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -9981,7 +9981,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 509.27 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fe9ed7b9-82da-4fad-8a85-38b02a58828e)
-    (property "Reference" "D133" (id 0) (at 513.08 72.39 0))
+    (property "Reference" "D265" (id 0) (at 513.08 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 515.62 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -10000,7 +10000,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 789.94 138.43 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ff1d8f1a-2468-4e7b-9881-5b0b91a6916b)
-    (property "Reference" "D215" (id 0) (at 793.75 132.08 0))
+    (property "Reference" "D219" (id 0) (at 793.75 132.08 0))
     (property "Value" "SK6812MINI" (id 1) (at 796.29 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -10019,7 +10019,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 631.19 78.74 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ff27a188-d1e2-4a7a-ae97-a9e45e230489)
-    (property "Reference" "D163" (id 0) (at 635 72.39 0))
+    (property "Reference" "D271" (id 0) (at 635 72.39 0))
     (property "Value" "SK6812MINI" (id 1) (at 637.54 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -10470,9 +10470,6 @@
     (path "/72ea0c56-f21e-4bf9-a512-1ae79f75563f"
       (reference "D108") (unit 1) (value "D") (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
-    (path "/8580430f-134b-41a5-8877-22c81715ab9e"
-      (reference "D109") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/1fe2bfc5-8e78-4fa6-bd6e-450afec10c4b"
       (reference "D110") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
@@ -10482,239 +10479,71 @@
     (path "/cf82845a-5908-4204-a96f-8e1e131f604e"
       (reference "D112") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/1b989b5c-f2d3-4e5d-93a6-1a469b649e72"
-      (reference "D113") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/cb43d8c1-67de-46a5-b55b-d03f60e612ab"
       (reference "D114") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/0f8c3841-5180-40d4-850d-face31cec667"
-      (reference "D115") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/e23d99e8-47c9-4263-8e73-f497e467d2cb"
       (reference "D116") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/24b0ab0a-90ef-4e64-a59e-af92d8c158f0"
-      (reference "D117") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/819ebb6d-7a6a-470f-b646-8541220c6301"
-      (reference "D118") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/778a7276-234b-4ac1-8734-7ee840e2b2fa"
       (reference "D119") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/242d0f0e-12ef-4f29-b625-064866f4830f"
-      (reference "D120") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/c235e57f-b2e3-4790-9836-4f1185e3667c"
       (reference "D121") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/b7337c37-5907-489e-98d1-8a653f8c93ac"
-      (reference "D122") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/822a080c-4ad0-4fc6-851a-89ed3a094fef"
-      (reference "D123") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/c895b172-9104-49dc-84a6-b342ecfabd47"
-      (reference "D124") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/af27a7d5-a352-4933-84d3-c70e5eec3d70"
       (reference "D125") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/54f8b835-ae18-4f62-b4e7-47a1ee3e09ef"
-      (reference "D126") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/28d09029-a471-488e-936b-86a2223139db"
       (reference "D127") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/9d77fc50-7fa6-4aa9-9a43-007c0d0b4a48"
-      (reference "D128") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/87bd74b5-7583-4c51-8b64-aeb5f3708efb"
-      (reference "D129") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/e650a03c-0004-48ee-8cd3-5ffff454551e"
-      (reference "D130") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/f943c0a7-7942-407b-986c-7c06de23d3c2"
-      (reference "D131") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/3c202b97-c94b-4e09-a8d4-e78a79aacade"
       (reference "D132") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/fe9ed7b9-82da-4fad-8a85-38b02a58828e"
-      (reference "D133") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/2dcd4636-507f-4cc6-9f17-914f507ab88e"
-      (reference "D134") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/60030018-14e7-4d16-b4fa-bf13e10c4b18"
-      (reference "D135") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/c7077c2e-334a-4064-bf97-d23854aef0e2"
-      (reference "D136") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/7962bad1-730b-4e0d-989d-19718c6b4694"
       (reference "D137") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/9eb73eeb-2ef8-4769-9bd4-7a6cf4875905"
-      (reference "D138") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/5679febc-ab67-4b20-af43-c91197ec331d"
-      (reference "D139") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/f20e1c90-b233-4f5e-996f-7b79dc8e0460"
-      (reference "D140") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/cf2e3f81-0530-4486-852a-4b5531a3c05b"
-      (reference "D141") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/f33851c0-d875-46e2-82dd-e2086d3d4560"
       (reference "D142") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/132c7673-8826-4607-b218-5b0851e8c78e"
-      (reference "D143") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/93ab535e-d225-4cdd-8f63-3767007623de"
-      (reference "D144") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/b0bf063f-9f61-4697-895c-8dbd1d6db1fe"
-      (reference "D145") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/66646d1f-4a47-4ead-bea1-bad76373daeb"
       (reference "D146") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/27a6660b-0338-46fe-b75c-4c0f0622409d"
-      (reference "D147") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/28c2560a-e093-4843-a13b-3ecf7c842838"
-      (reference "D148") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/1d5ce55d-2c4b-4e1a-8a84-c98da0f4712c"
       (reference "D149") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/b64a6b3e-345c-419e-adbf-4462c77db9f4"
-      (reference "D150") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/7f499fa7-d65c-409f-8f78-88ce93893f81"
-      (reference "D151") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/f5f8d907-510f-4ed6-be69-3e6dd359c2ac"
       (reference "D152") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/21e77a91-3399-4283-bc82-7527a75a4520"
-      (reference "D153") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/a8a58438-4110-42b5-b163-6e5df928377e"
-      (reference "D154") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/e263ce8c-eec1-4b22-adad-b0a36367094e"
-      (reference "D155") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/8e7a4c54-c759-444a-a9e9-3f7f0cca2cd5"
-      (reference "D156") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/49ef40ee-440b-4fe9-86bc-6326e6b0daa5"
       (reference "D157") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/e4da854e-509a-49c0-91f1-80e6342cf856"
-      (reference "D158") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/a678e482-ba4e-4da8-8431-e10ec32c1905"
-      (reference "D159") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/31a5090c-2204-46ce-b3a9-261387ba10de"
-      (reference "D160") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/f3c53c40-28c5-4c4f-a9e5-51b9f6faac00"
-      (reference "D161") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/bac3b6dc-8b5c-45ba-9600-381489f98375"
       (reference "D162") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/ff27a188-d1e2-4a7a-ae97-a9e45e230489"
-      (reference "D163") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/01a98b43-2a44-40eb-b6a2-efc2ccf415c8"
-      (reference "D164") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/365890e6-8e30-4a83-9224-989d584b72a2"
       (reference "D165") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/49633b78-fe92-4c09-8876-eec53f5ae64e"
-      (reference "D166") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/58ffb92a-ead2-403c-a077-914e98e5970a"
-      (reference "D167") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/8ea31b6c-9348-4793-b48f-328b54dcdadc"
       (reference "D168") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/97804c74-dd9c-43c4-a2f6-c48afff8fc84"
-      (reference "D169") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/14282f77-e4e9-4d7f-9352-8141ebfb6864"
       (reference "D170") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/ba14200e-e15e-4879-b7ea-5c3bb929ada3"
-      (reference "D171") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/966a10c3-2912-42eb-9f36-7e07e5c4cd5c"
-      (reference "D172") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/8f7c2428-1a6e-46d5-a013-5e28672d5d55"
-      (reference "D173") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/35790b58-2fea-4ba2-9286-d0ba681bb36c"
       (reference "D174") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/59077182-6fb5-46c5-a41a-25c051dbeba9"
-      (reference "D175") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/02c94368-95b6-4754-ba6d-863d6137dc10"
       (reference "D176") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/601ac344-2c73-41c6-bc12-a2449956f81c"
-      (reference "D177") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/d95eddd7-1202-4d1f-9f8e-13bc2afb2365"
-      (reference "D178") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/021db9d5-d942-4cf4-84eb-b8a0e3afaf18"
-      (reference "D179") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/ad767a11-96c9-4fb7-9509-5e145865edc7"
-      (reference "D180") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/7394535f-3696-481e-a3d7-3ff9d91e3cce"
       (reference "D181") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/7cb64e5b-27d5-47a3-bd7e-b9fe2d81ecf8"
-      (reference "D182") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/0fddfa91-ae7e-4dca-bd2e-660dbadba471"
       (reference "D183") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/60f7aca7-5e22-48c1-9650-2d57ebb2f698"
-      (reference "D184") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/5c0384b3-0dff-436b-a2d1-d8c87f82a401"
-      (reference "D185") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/99d05452-c137-4750-a5fa-b69783e5d20a"
-      (reference "D186") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/319448af-5793-4f51-879e-246587e36dd1"
-      (reference "D187") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/31672ace-45f3-4488-8b26-aa79a15f071d"
-      (reference "D188") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/66261ca3-5725-47a0-a8e6-48920510ffd3"
       (reference "D189") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/56786862-810e-4d8a-a957-03aa1dd0c77a"
-      (reference "D190") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/9266f2f3-350b-4508-abee-88486af27317"
       (reference "D191") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
@@ -10725,59 +10554,62 @@
     (path "/87031057-d56b-483e-82e2-ac5e1008e730"
       (reference "D193") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/22aa9bfc-146d-4bef-9532-c9e2f6691d98"
-      (reference "D194") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/f5bbf347-03c1-4e94-a7b9-0f2ff1715794"
-      (reference "D195") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/8b31abc4-2ddf-47cd-a666-7434f53d62aa"
-      (reference "D196") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/9236b25c-58b8-47bf-bf25-0ba26f3459d6"
-      (reference "D197") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
     (path "/8e547acd-dfd1-4b67-8f25-ca9d7b17a101"
       (reference "D198") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/8ebcd8d7-7a69-433b-b8a3-0afb98953fcf"
-      (reference "D199") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
-    )
-    (path "/029738bc-ebb7-4898-accd-7d5149fbfd5c"
+    (path "/8580430f-134b-41a5-8877-22c81715ab9e"
       (reference "D200") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/31d1b141-80bd-4be4-871e-bab7a27feca5"
       (reference "D201") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
+    (path "/822a080c-4ad0-4fc6-851a-89ed3a094fef"
+      (reference "D201") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
     (path "/294b051b-78b5-4c3d-97cc-c33cd720e63a"
       (reference "D202") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/10be39ce-9927-4d8b-b235-c63f122142f8"
+    (path "/e650a03c-0004-48ee-8cd3-5ffff454551e"
+      (reference "D202") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/60030018-14e7-4d16-b4fa-bf13e10c4b18"
       (reference "D203") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/67b3edcd-4f7c-4536-9a21-e22c4f32bdfa"
       (reference "D204") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
+    (path "/f20e1c90-b233-4f5e-996f-7b79dc8e0460"
+      (reference "D204") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/28c2560a-e093-4843-a13b-3ecf7c842838"
+      (reference "D205") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
     (path "/84177ee3-1054-43f5-b149-0071ab62566b"
       (reference "D205") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/81932ad2-f5a5-4231-b2e3-2df5c643e090"
+    (path "/a8a58438-4110-42b5-b163-6e5df928377e"
       (reference "D206") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/4f73bd75-ed1b-4dec-867c-8ed55bc99a16"
+    (path "/a678e482-ba4e-4da8-8431-e10ec32c1905"
       (reference "D207") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/2932f827-2ea8-4c92-9461-2e06094863c9"
+    (path "/01a98b43-2a44-40eb-b6a2-efc2ccf415c8"
       (reference "D208") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/ba14200e-e15e-4879-b7ea-5c3bb929ada3"
+      (reference "D209") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/fb766835-c5bc-4a0e-b783-b24f39781c13"
       (reference "D209") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/b272cf19-6282-4b66-b5b6-65bfae8a3a0e"
+    (path "/d95eddd7-1202-4d1f-9f8e-13bc2afb2365"
       (reference "D210") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/aa8e4f0a-4410-49ca-87db-7e0a341b80fe"
+    (path "/7cb64e5b-27d5-47a3-bd7e-b9fe2d81ecf8"
       (reference "D211") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/99d05452-c137-4750-a5fa-b69783e5d20a"
+      (reference "D212") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/f937a64f-e5a1-4349-af1f-1770f9e33cd1"
       (reference "D212") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
@@ -10785,26 +10617,194 @@
     (path "/7d1e5e67-c5e5-4173-8fbc-a56f761d9665"
       (reference "D213") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/5644c907-83c2-436d-a263-f1b037d53ada"
+    (path "/8ebcd8d7-7a69-433b-b8a3-0afb98953fcf"
+      (reference "D213") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/b272cf19-6282-4b66-b5b6-65bfae8a3a0e"
       (reference "D214") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/ff1d8f1a-2468-4e7b-9881-5b0b91a6916b"
+    (path "/8ba90d2c-b5ee-4a88-b02b-65b7bf0b5daa"
       (reference "D215") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/d0c39e8b-a337-4861-8f5e-a9770b8731c7"
+    (path "/319448af-5793-4f51-879e-246587e36dd1"
       (reference "D216") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/b8e9b2b6-a793-4b61-ad9b-e94a918cc7cb"
+    (path "/f5bbf347-03c1-4e94-a7b9-0f2ff1715794"
       (reference "D217") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/8ba90d2c-b5ee-4a88-b02b-65b7bf0b5daa"
+    (path "/81932ad2-f5a5-4231-b2e3-2df5c643e090"
       (reference "D218") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
-    (path "/d124aee1-b6d3-4957-bb8b-a9f1eaaebb33"
+    (path "/ff1d8f1a-2468-4e7b-9881-5b0b91a6916b"
       (reference "D219") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/18f61c30-e42d-4237-986e-1e196b4550c7"
       (reference "D220") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/1b989b5c-f2d3-4e5d-93a6-1a469b649e72"
+      (reference "D220") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/819ebb6d-7a6a-470f-b646-8541220c6301"
+      (reference "D221") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/c895b172-9104-49dc-84a6-b342ecfabd47"
+      (reference "D222") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/87bd74b5-7583-4c51-8b64-aeb5f3708efb"
+      (reference "D223") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/2dcd4636-507f-4cc6-9f17-914f507ab88e"
+      (reference "D224") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/5679febc-ab67-4b20-af43-c91197ec331d"
+      (reference "D225") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/93ab535e-d225-4cdd-8f63-3767007623de"
+      (reference "D226") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/b64a6b3e-345c-419e-adbf-4462c77db9f4"
+      (reference "D227") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/e263ce8c-eec1-4b22-adad-b0a36367094e"
+      (reference "D228") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/31a5090c-2204-46ce-b3a9-261387ba10de"
+      (reference "D229") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/49633b78-fe92-4c09-8876-eec53f5ae64e"
+      (reference "D230") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/966a10c3-2912-42eb-9f36-7e07e5c4cd5c"
+      (reference "D231") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/601ac344-2c73-41c6-bc12-a2449956f81c"
+      (reference "D232") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/60f7aca7-5e22-48c1-9650-2d57ebb2f698"
+      (reference "D233") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/8b31abc4-2ddf-47cd-a666-7434f53d62aa"
+      (reference "D234") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/4f73bd75-ed1b-4dec-867c-8ed55bc99a16"
+      (reference "D235") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/d0c39e8b-a337-4861-8f5e-a9770b8731c7"
+      (reference "D236") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/31672ace-45f3-4488-8b26-aa79a15f071d"
+      (reference "D237") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/9236b25c-58b8-47bf-bf25-0ba26f3459d6"
+      (reference "D238") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/2932f827-2ea8-4c92-9461-2e06094863c9"
+      (reference "D239") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/b8e9b2b6-a793-4b61-ad9b-e94a918cc7cb"
+      (reference "D240") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/0f8c3841-5180-40d4-850d-face31cec667"
+      (reference "D241") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/242d0f0e-12ef-4f29-b625-064866f4830f"
+      (reference "D242") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/54f8b835-ae18-4f62-b4e7-47a1ee3e09ef"
+      (reference "D243") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/f943c0a7-7942-407b-986c-7c06de23d3c2"
+      (reference "D244") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/c7077c2e-334a-4064-bf97-d23854aef0e2"
+      (reference "D245") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/cf2e3f81-0530-4486-852a-4b5531a3c05b"
+      (reference "D246") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/b0bf063f-9f61-4697-895c-8dbd1d6db1fe"
+      (reference "D247") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/7f499fa7-d65c-409f-8f78-88ce93893f81"
+      (reference "D248") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/8e7a4c54-c759-444a-a9e9-3f7f0cca2cd5"
+      (reference "D249") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/f3c53c40-28c5-4c4f-a9e5-51b9f6faac00"
+      (reference "D250") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/58ffb92a-ead2-403c-a077-914e98e5970a"
+      (reference "D251") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/8f7c2428-1a6e-46d5-a013-5e28672d5d55"
+      (reference "D252") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/021db9d5-d942-4cf4-84eb-b8a0e3afaf18"
+      (reference "D253") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/5c0384b3-0dff-436b-a2d1-d8c87f82a401"
+      (reference "D254") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/22aa9bfc-146d-4bef-9532-c9e2f6691d98"
+      (reference "D255") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/10be39ce-9927-4d8b-b235-c63f122142f8"
+      (reference "D256") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/5644c907-83c2-436d-a263-f1b037d53ada"
+      (reference "D257") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/56786862-810e-4d8a-a957-03aa1dd0c77a"
+      (reference "D258") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/029738bc-ebb7-4898-accd-7d5149fbfd5c"
+      (reference "D259") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/aa8e4f0a-4410-49ca-87db-7e0a341b80fe"
+      (reference "D260") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/d124aee1-b6d3-4957-bb8b-a9f1eaaebb33"
+      (reference "D261") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/24b0ab0a-90ef-4e64-a59e-af92d8c158f0"
+      (reference "D262") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/b7337c37-5907-489e-98d1-8a653f8c93ac"
+      (reference "D263") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/9d77fc50-7fa6-4aa9-9a43-007c0d0b4a48"
+      (reference "D264") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/fe9ed7b9-82da-4fad-8a85-38b02a58828e"
+      (reference "D265") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/9eb73eeb-2ef8-4769-9bd4-7a6cf4875905"
+      (reference "D266") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/132c7673-8826-4607-b218-5b0851e8c78e"
+      (reference "D267") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/27a6660b-0338-46fe-b75c-4c0f0622409d"
+      (reference "D268") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/21e77a91-3399-4283-bc82-7527a75a4520"
+      (reference "D269") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/e4da854e-509a-49c0-91f1-80e6342cf856"
+      (reference "D270") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/ff27a188-d1e2-4a7a-ae97-a9e45e230489"
+      (reference "D271") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/97804c74-dd9c-43c4-a2f6-c48afff8fc84"
+      (reference "D272") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/59077182-6fb5-46c5-a41a-25c051dbeba9"
+      (reference "D273") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
+    )
+    (path "/ad767a11-96c9-4fb7-9509-5e145865edc7"
+      (reference "D274") (unit 1) (value "SK6812MINI") (footprint "specialParts:SK6812-MINI-E")
     )
     (path "/00000000-0000-0000-0000-00005e99b06f"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965")
